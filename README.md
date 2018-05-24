@@ -4,6 +4,9 @@
 
 赛题：http://algo.tpai.qq.com/home/information/info.html
 
+数据下载链接: https://pan.baidu.com/s/1v98iSugDEG9OJkJg1rVHEw 密码: nwjj
+
+
 zpp_baseline_v1.py对应初赛Ａ阶段的test1数据集；
 zpp_baseline_v２.1.py对应初赛B阶段的test2数据集；
 两阶段评分均为0.71。
